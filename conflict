@@ -1,0 +1,5 @@
+When I tried to merge branches this happened:
+Auto-merging A_File_For_Merge_Conflict.txt
+CONFLICT (content): Merge conflict in A_File_For_Merge_Conflict.txt
+Automatic merge failed; fix conflicts and then commit the result.
+

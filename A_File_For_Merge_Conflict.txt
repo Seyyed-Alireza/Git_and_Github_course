@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git merge conflict
+=======
+there is nothing we can do
+>>>>>>> conflict
